@@ -1,2 +1,0 @@
-# parallel
-python ohjelma
